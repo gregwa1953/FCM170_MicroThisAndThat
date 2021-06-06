@@ -1,0 +1,16 @@
+LowValue = 677
+LowValue = 671
+LowValue = 667
+LowValue = 658
+LowValue = 616
+LowValue = 456
+LowValue = 390
+LowValue = 347
+LowValue = 227
+LowValue = 128
+LowValue = 107
+LowValue = 100
+LowValue = 94
+LowValue = 92
+LowValue = 88
+LowValue = 87
